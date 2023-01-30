@@ -362,7 +362,7 @@ local botTargetInitSeeds = {0x0, 0x0BAD, 0xDEAD, 0x0DAD, 0x1EE7, 0xFEED}  -- Inp
 
 local TIDBotState = savestate.create()
 local TIDFound = false
-local botTargetTIDs = {0, 1, 1337, 8453, 8411, 11233, 11111, 22222, 33333}  -- Input here the bot target TIDs
+local botTargetTIDs = {0, 1, 1337, 8453, 8411, 11233, 11111, 22222, 33333}  -- 0
 
 local infoMode = {"Gift", "Party", "Party Stats", "Battle Party Stats", "Box", "1st Floor Box Stats", "2nd Floor Box Stats", "DayCare Box Stats"}
 local infoIndex = 1
